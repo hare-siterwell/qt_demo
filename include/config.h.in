@@ -1,0 +1,22 @@
+/**
+ * @file config.h
+ * @author y
+ * @brief Define configuration
+ * @version 0.1
+ * @date 2022-04-02
+ *
+ * @copyright Copyright (c) 2022
+ *
+ */
+#ifndef CONFIG_H
+#define CONFIG_H
+
+#define PROJECT_NAME "@PROJECT_NAME@"
+
+#define PROJECT_VERSION_MAJOR @PROJECT_VERSION_MAJOR@
+#define PROJECT_VERSION_MINOR @PROJECT_VERSION_MINOR@
+#define PROJECT_VERSION_PATCH @PROJECT_VERSION_PATCH@
+
+#define PROJECT_VERSION "@PROJECT_VERSION@"
+
+#endif  // CONFIG_H
