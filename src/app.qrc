@@ -1,5 +1,5 @@
 <RCC>
   <qresource prefix="/">
-    <file>../assets/fct.ico</file>
+    <file>../assets/logo.ico</file>
   </qresource>
 </RCC>

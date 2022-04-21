@@ -78,3 +78,6 @@ build*/
 /.vscode/
 /.cache/
 *.evb
+~$
+
+!app_win32.rc

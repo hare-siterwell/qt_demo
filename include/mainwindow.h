@@ -13,11 +13,13 @@
 
 #include <QMainWindow>
 
-namespace Ui {
+namespace Ui
+{
 class MainWindow;
 }
 
-class MainWindow : public QMainWindow {
+class MainWindow : public QMainWindow
+{
   Q_OBJECT
 
  public:
@@ -25,7 +27,9 @@ class MainWindow : public QMainWindow {
   ~MainWindow() override;
 
  private:
-  Ui::MainWindow *ui = nullptr;
+  void About();
+
+  Ui::MainWindow *ui;
 };
 
 #endif  // MAINWINDOW_H

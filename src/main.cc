@@ -19,7 +19,8 @@
  * @param argv The command line arguments
  * @return int The exit code of the application
  */
-auto main(int argc, char** argv) -> int {
+auto main(int argc, char** argv) -> int
+{
   QApplication a(argc, argv);
   MainWindow w;
   w.show();
