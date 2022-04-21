@@ -1,33 +1,28 @@
-[TOC]
+# QT Demo
 
-# FCT_Testing
-
-<Project>, is a <What>. Its main purpose is <To>.
+This is a simple application to demonstrate Qt features.
 
 ## Features
-- <Feature1>
-- <Feature2>
+- Built using CMAKE
 
 ## Note
 
-Please use the released [binaries](https://github.com/<Who>/<Project>/releases).
 
 ## Build
 
-It describes how to build <Project> and what Compilers, Platforms, and Tools are supported and needed.
+- [Install MinGW-w64 9.0.0 or higher](https://winlibs.com)
+- [Install Qt 5.15 or higher](https://www.qt.io/download)
 
 ## Workflow
-1. <Step1>
-2. <Step2>
+
 
 ## Presets
 
-<Presets>
 
 ## Feedback
 
-Questions and comments are more than welcome, please open an [issue](https://github.com/<Who>/<Project>/issues).
+Questions and comments are more than welcome!
 
-## About## 
+## About
 
-<Project> was created by <Who>.
+QT Demo was created by y.
